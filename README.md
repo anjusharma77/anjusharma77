@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Anju Sharma
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Php, Laravel
-- I'm Looking for job as a PHP Developer
 - 📫 How to reach me sharmaanju@gmail.com
 
 <!---
